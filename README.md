@@ -1,6 +1,8 @@
 # MST
 INF442 Project: Minimum Spanning Trees (MST)
--- Youssef Allouah and Jérémy Sroussi --
+-- Y.Allouah and J.Sroussi --
+
+To read the project's description, please open "p3-mst.pdf" file in the main directory.
 
 The source code is located in the \code folder, along with the graphs used for our tests.
 
