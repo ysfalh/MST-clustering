@@ -1,4 +1,4 @@
-# MST
+# Minimum Spanning Trees based clustering technique
 INF442 Project: Minimum Spanning Trees (MST)
 -- Y.Allouah and J.Sroussi --
 
