@@ -3,6 +3,7 @@ INF442 Project: Minimum Spanning Trees (MST)
 -- Y.Allouah and J.Sroussi --
 
 To read the project's description, please open "p3-mst.pdf" file in the main directory.
+To read the project's report of the solution we implemented, please open "report_mstc_english.pdf" in main directory.
 
 The source code is located in the \code folder, along with the graphs used for our tests.
 
