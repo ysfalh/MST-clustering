@@ -1,9 +1,10 @@
 # Minimum Spanning Trees based clustering technique
 
 To read the project's description, please open "p3-mst.pdf" file in the main directory.
+
 To read the project's report of the solution we implemented, please open "report_mstc_english.pdf" in main directory.
 
-# How to use the code
+## How to use the code
 The source code is located in the \code folder, along with the graphs used for our tests.
 
 1. In order to test an algorithm named "*alg*", you need to run the file named "*alg*_test", which is a python script except for the parallel prim algorithm (of source code "mpiprim.py"). For the latter, the test file is a .bat windows batch file. 
